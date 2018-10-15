@@ -1,4 +1,5 @@
 print("Hello")
+print("Changes in another")
 print("World")
 <<<<<<< HEAD
 print("More changes")
